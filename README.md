@@ -11,7 +11,7 @@ Welcome to my repository where I store all the Unix lab codes I've worked on. Th
 
 The codes in Part 1 are a collection of Unix-based scripts and programs that I have written for my lab assignments. These scripts are designed to explore basic Unix commands, file management, process handling, and more.
 
-You can download the attached PDF for a detailed explanation of the codes in Part 1.
+You can download the attached PDF from the repo for a detailed explanation of the codes in Part 1.
 
 **Credits**:  
 A big thank you to [Roshan Sharma](https://github.com/RoshanSharma999) for their contributions to Part 1 of the lab codes.
